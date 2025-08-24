@@ -37,6 +37,7 @@ dependencies = [
     "tavily-python>=0.7.9",
     "langchain-tavily>=0.2.7",
     "pandas-stubs==2.3.0.250703",
+    "langchain-ollama>=0.3.7",
 ]
 
 [[tool.uv.index]]
